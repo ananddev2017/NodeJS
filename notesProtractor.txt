@@ -11,7 +11,7 @@ Many more details on http://chancejs.com but this single library can generate ra
 
 E:\protractor\protractor-example-master>npm install jasmine-spec-reporter --save-dev
 The npm also updates package.json for dependencies installed.
-
+e
 
 to Execute >>
 E:\protractor\protractor-example-master>protractor conf.js
