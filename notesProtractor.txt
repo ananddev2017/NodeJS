@@ -1,0 +1,17 @@
+webdriver-manager update [updates selenium version]
+C:\Users\EIN0047>webdriver-manager start  [starts selenium server]
+
+C:\Users\EIN0047>e:
+E:\protractor\protractor-example-master>npm install chance
+
+Chance - Random generator helper for JavaScript
+Homepage: http://chancejs.com
+Many more details on http://chancejs.com but this single library can generate random numbers, characters, strings, names, addresses, dice, and pretty much anything else.
+
+
+E:\protractor\protractor-example-master>npm install jasmine-spec-reporter --save-dev
+The npm also updates package.json for dependencies installed.
+
+
+to Execute >>
+E:\protractor\protractor-example-master>protractor conf.js
